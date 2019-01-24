@@ -1,0 +1,25 @@
+Stocks Through -F-F-F->
+
+The user must log in or create an account.
+Based on the users' selected stocks the app 
+will inform the user whether or not they should 
+buy the stocks at that moment. The decision to 
+purchase or not to will be made easy for the user. 
+
+Features:
+1* User Login
+2* List of Stocks that have increased in the past month
+3* Save users favorite stocks to purchase from
+
+Technologies:
+1- C#
+2- API Intrinio
+3- MySQL
+4- SQL Alchemy
+5- JSON
+
+What to learn:
+    How to extract information from an API. Can you use multiple APIs. Should I use multiple APIs. Which APIs should I use?
+
+Project tracker:
+https://www.pivotaltracker.com
